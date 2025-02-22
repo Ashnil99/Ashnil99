@@ -1,5 +1,5 @@
 <h2 align="center">BURAK KILIÇ</h2>
-<h3 align="center"> Deep Learning Enthusiast <span color="purple"> & </span>Full-Stack Web Developer<span color="purple"> & </span>  Graduate Student of CS </h3>
+<h3 align="center"> Learning Enthusiast <span color="purple"> & </span>Network Engineer<span color="purple"> & </span>  Graduate of CS </h3>
 
 
 
