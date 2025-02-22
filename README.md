@@ -12,8 +12,8 @@ Hello I am Burak, 25 years old, **Network Engineer**, **SOC Analyst**, **Cloud S
 **Tools :** Github, CPT, Linux,
 
 
-## Someone Who Never Stops Learning and Grinding <img width="410px" align="right" alt="GIF" src="[https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYzaDNlbjc1OGVndDZ0NnBzcHVoamZiZWRmOTUyMm5tbHoyZGVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jN9S0faVsUUfdaY50J/giphy.gif)"/>
-<iframe src="https://giphy.com/embed/jN9S0faVsUUfdaY50J" width="480" height="398" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HostDime-data-center-hostdime-server-rack-jN9S0faVsUUfdaY50J">via GIPHY</a></p>
+## Someone Who Never Stops Learning and Grinding <img width="410px" align="right" alt="GIF" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYzaDNlbjc1OGVndDZ0NnBzcHVoamZiZWRmOTUyMm5tbHoyZGVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jN9S0faVsUUfdaY50J/giphy.gif]"/>
+
 <br>
   * 🌐 Networking<br>
   * 👨‍💻Cyber Security<br>
