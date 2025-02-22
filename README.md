@@ -1,5 +1,5 @@
 <h2 align="center">BURAK KILIÇ</h2>
-<h3 align="center"> Learning Enthusiast <span color="purple"> & </span>Network Engineer<span color="purple"> & </span>  Graduate of CS </h3>
+<h3 align="center">Network Engineer<span color="purple"> & </span>Security & Cloud Enthusiast<span color="purple"> & </span>  Graduate of Computer Programming </h3>
 
 
 
@@ -12,7 +12,7 @@ Hello I am Burak, 25 years old, **Network Engineer**, **SOC Analyst**, **Cloud S
 **Tools :** Github, CPT, Linux,
 
 
-## Someone Who Never Stops Learning and Grinding <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+## Someone Who Never Stops Learning and Grinding <img width="410px" align="right" alt="GIF" src="[https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGYzaDNlbjc1OGVndDZ0NnBzcHVoamZiZWRmOTUyMm5tbHoyZGVybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jN9S0faVsUUfdaY50J/giphy.gif)"/>
 
 <br>
   * 🌐 Networking<br>
