@@ -4,7 +4,7 @@
 
 
 
-Hello I am Burak, 25 years old **Cybersecurity Analyst**, **Network Engineer**, **Cloud Security Enthusiast** 👨🏻‍💻 from Turkey.
+Hello I am Burak, 25 years old, **Network Engineer**, **SOC Analyst**, **Cloud Security Enthusiast** 👨🏻‍💻 from Turkey.
 </br>
 
 **Skills :** Networking, Cybersecurity, Cloud
