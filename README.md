@@ -12,14 +12,16 @@ Hello I am Burak, 25 years old **Cybersecurity Analyst**, **Network Engineer**, 
 **Tools :** Github, CPT, Linux,
 
 
-## Someone Who Never Stops Learning and Grinding: <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+## Someone Who Never Stops Learning and Grinding <img width="410px" align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 <br>
   * 🌐 Networking<br>
   * 👨‍💻Cyber Security<br>
   * ☁Cloud and Cloud Security<br>
   * 🖥️Hardware🔌<br>
-  * Contact me via kilic.burakk99@gmail.com
+  <br>
+  <br>
+   - Contact me via kilic.burakk99@gmail.com
 
 </br>
 
