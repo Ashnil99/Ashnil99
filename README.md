@@ -26,7 +26,8 @@ Hello I am Burak, 25 years old, **Network Engineer**, **SOC Analyst**, **Cloud S
 </br>
 
 <h2 align="left">Connect Me Through My Other Social Media Accounts:</h2>
-
+<br>
+<br>
 <div align=center>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_brk_klc/)
