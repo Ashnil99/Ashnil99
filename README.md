@@ -15,7 +15,7 @@ Hello I am Burak, 25 years old, **Network Engineer**, **SOC Analyst**, **Cloud S
 ## Someone Who Never Stops Learning and Grinding <img width="300px" align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWR5aXFuMWh5cmxlenNkY3J0MWdrb2Via2x4ZnVyaWN6NXRtbTliaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jN9S0faVsUUfdaY50J/giphy.gif"/>
 
 <br>
-  * 🌐 Networking<br>
+  * 🌐Networking<br>
   * 👨‍💻Cyber Security<br>
   * ☁Cloud and Cloud Security<br>
   * 🖥️Hardware🔌<br>
